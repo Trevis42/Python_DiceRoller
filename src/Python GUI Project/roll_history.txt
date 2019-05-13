@@ -1,0 +1,57 @@
+Roll History: 
+1d6: [4] Total:4
+
+Roll History: 
+1d6: [2] Total:2
+
+Roll History: 
+1d6: [5] Total:5
+
+Roll History: 
+1d4: [4] Total:4
+
+Roll History: 
+1d4: [1] Total:1
+
+Roll History: 
+1d4: [1] Total:1
+
+Roll History: 
+6d6: [5, 6, 5, 6, 2, 3] Total:27
+
+Roll History: 
+10d10: [4, 8, 1, 2, 4, 8, 5, 8, 9, 2] Total:51
+
+Roll History: 
+10d12: [11, 9, 5, 1, 7, 11, 4, 6, 7, 9] Total:70
+
+Roll History: 
+10d12: [8, 3, 4, 12, 11, 11, 11, 1, 2, 6] Total:69
+
+Roll History: 
+10d12: [6, 7, 2, 2, 7, 3, 6, 10, 4, 1] Total:48
+
+Roll History: 
+10d12: [5, 4, 9, 10, 4, 11, 2, 2, 8, 7] Total:62
+
+Roll History: 
+10d20: [10, 10, 1, 14, 11, 8, 19, 1, 15, 7] Total:96
+
+Roll History: 
+10d8: [2, 6, 6, 7, 7, 6, 2, 3, 3, 1] Total:43
+
+Roll History: 
+10d8: [6, 1, 7, 6, 4, 5, 3, 2, 7, 2] Total:43
+
+Roll History: 
+10d8: [4, 7, 1, 8, 8, 6, 1, 4, 8, 1] Total:48
+
+Roll History: 
+10d8: [5, 4, 4, 3, 6, 4, 3, 6, 7, 3] Total:45
+
+Roll History: 
+10d20: [14, 1, 1, 11, 10, 3, 6, 19, 2, 2] Total:69
+
+Roll History: 
+10d20: [3, 12, 3, 14, 19, 4, 10, 18, 6, 15] Total:104
+
